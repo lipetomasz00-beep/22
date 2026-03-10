@@ -1,0 +1,32 @@
+{
+  "pl": {
+    "title": "FINANCIAL FREEDOM",
+    "subtitle": "My to Twój Finansowy Sukces",
+    "cash": "SZYBKA GOTÓWKA",
+    "bonus": "PREMIA OD BANKU",
+    "business": "DLA FIRM",
+    "consolidation": "KONSOLIDACJA",
+    "creditCards": "KARTY KREDYTOWE",
+    "insurance": "UBEZPIECZENIA"
+  },
+  "en": {
+    "title": "FINANCIAL FREEDOM",
+    "subtitle": "We Are Your Financial Success",
+    "cash": "INSTANT CASH",
+    "bonus": "CLAIM BANK BONUS",
+    "business": "BUSINESS FUNDING",
+    "consolidation": "DEBT CONSOLIDATION",
+    "creditCards": "CREDIT CARDS",
+    "insurance": "INSURANCE"
+  },
+  "ua": {
+    "title": "FINANCIAL FREEDOM",
+    "subtitle": "Ми – Твій Фінансовий Успіх",
+    "cash": "ШВИДКА ГОТІВКА",
+    "bonus": "БОНУС ВІД БАНКУ",
+    "business": "ДЛЯ БІЗНЕСУ",
+    "consolidation": "КОНСОЛІДАЦІЯ БОРГІВ",
+    "creditCards": "КРЕДИТНІ КАРТКИ",
+    "insurance": "СТРАХУВАННЯ"
+  }
+}
